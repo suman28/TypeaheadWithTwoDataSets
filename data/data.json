@@ -1,0 +1,79 @@
+{
+    "records": [{
+            "TBNAME": "empdata",
+            "NAME": "AREA"
+        },
+        {
+            "TBNAME": "empdata",
+            "NAME": "DEPARTMENT"
+        },
+        {
+            "TBNAME": "empdata",
+            "NAME": "DIV"
+        },
+        {
+            "TBNAME": "empdata",
+            "NAME": "FIRST_NAME"
+        },
+        {
+            "TBNAME": "empdata",
+            "NAME": "HIRE_DATE"
+        },
+        {
+            "TBNAME": "empdata",
+            "NAME": "JOBCLASS"
+        },
+        {
+            "TBNAME": "empdata",
+            "NAME": "LAST_NAME"
+        },
+        {
+            "TBNAME": "empdata",
+            "NAME": "MIDINITIAL"
+        },
+        {
+            "TBNAME": "empdata",
+            "NAME": "PIN"
+        },
+        {
+            "TBNAME": "empdata",
+            "NAME": "SALARY"
+        },
+        {
+            "TBNAME": "empdata",
+            "NAME": "TITLE"
+        },
+        {
+            "TBNAME": "employee",
+            "NAME": "CURR_JOBCODE"
+        },
+        {
+            "TBNAME": "employee",
+            "NAME": "CURR_SAL"
+        },
+        {
+            "TBNAME": "employee",
+            "NAME": "DEPARTMENT"
+        },
+        {
+            "TBNAME": "employee",
+            "NAME": "ED_HRS"
+        },
+        {
+            "TBNAME": "employee",
+            "NAME": "EMP_ID"
+        },
+        {
+            "TBNAME": "employee",
+            "NAME": "FIRST_NAME"
+        },
+        {
+            "TBNAME": "employee",
+            "NAME": "HIRE_DATE"
+        },
+        {
+            "TBNAME": "employee",
+            "NAME": "LAST_NAME"
+        }
+    ]
+}
